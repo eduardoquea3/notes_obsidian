@@ -1,0 +1,6 @@
+- [Powershell](https://github.com/PowerShell/PowerShell/releases/tag/v7.4.1)
+- [MSYS2](https://www.msys2.org/)
+- [Cursor](https://cursor.sh/)
+- [Visual Studio 2022](https://visualstudio.microsoft.com/es/thank-you-downloading-visual-studio/?sku=Community&channel=Release&version=VS2022&source=VSLandingPage&cid=2030&passive=false)
+- [Rust](https://www.rust-lang.org/es/learn/get-started)
+- 

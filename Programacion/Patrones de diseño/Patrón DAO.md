@@ -1,0 +1,1 @@
+El patrón Data Access Object (DAO) **pretende principalmente independizar la aplicación de la forma de acceder a la base de datos, o cualquier otro tipo de repositorio de datos**. Para ello se centraliza el código relativo al acceso al repositorio de datos en las clases llamadas DAO.

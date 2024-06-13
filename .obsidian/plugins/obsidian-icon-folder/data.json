@@ -1,0 +1,109 @@
+{
+  "settings": {
+    "migrated": 5,
+    "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
+    "fontSize": 20,
+    "emojiStyle": "native",
+    "iconColor": "#d1d1d1",
+    "recentlyUsedIcons": [
+      "OcPersonFill16",
+      "RiFolderImageLine",
+      "SiFiles",
+      "SiExcalidraw",
+      "🖼",
+      "CoSettings",
+      "TiCode",
+      "TiBooks",
+      "IbDocumentText",
+      "TiBrandCSharp"
+    ],
+    "recentlyUsedIconsSize": 10,
+    "rules": [
+      {
+        "icon": "CoNote",
+        "rule": "Templates\\/[\\w\\d\\s]+\\.(?:\\w+\\.)*\\w+",
+        "for": "files",
+        "order": 0,
+        "useFilePath": true
+      },
+      {
+        "icon": "SiPython",
+        "rule": "Programacion/Lenguajes de Programacion/Python\\/[\\w\\d\\s]+\\.(?:\\w+\\.)*\\w+",
+        "for": "files",
+        "order": 1,
+        "useFilePath": true
+      },
+      {
+        "icon": "SiLua",
+        "rule": "Programacion/Lenguajes de Programacion/Lua\\/[\\w\\d\\s]+\\.(?:\\w+\\.)*\\w+",
+        "for": "files",
+        "order": 2,
+        "useFilePath": true
+      },
+      {
+        "icon": "RiJavascriptFill",
+        "rule": "Programacion/Lenguajes de Programacion/Javascript\\/[\\w\\d\\s]+\\.(?:\\w+\\.)*\\w+",
+        "for": "files",
+        "order": 3,
+        "useFilePath": true
+      },
+      {
+        "icon": "FabJava",
+        "rule": "Programacion/Lenguajes de Programacion/Java\\/[\\w\\d\\s]+\\.(?:\\w+\\.)*\\w+",
+        "for": "files",
+        "order": 4,
+        "useFilePath": true
+      },
+      {
+        "icon": "FasBusinessTime",
+        "rule": "SISE/Ciclo 3/Primer Bloque/Desarrollo de Soluciones Empresariales.md\\/[\\w\\d\\s]+\\.(?:\\w+\\.)*\\w+",
+        "for": "files",
+        "order": 5,
+        "useFilePath": true
+      },
+      {
+        "icon": "SiFigmaWhite",
+        "rule": "SISE/Ciclo 3/Primer Bloque/Diseño Básico de Redes.md\\/[\\w\\d\\s]+\\.(?:\\w+\\.)*\\w+",
+        "for": "files",
+        "order": 6,
+        "useFilePath": true
+      },
+      {
+        "icon": "🧑‍🎓",
+        "rule": "Notas/Diarias/Estudiar para Desarrollo de soluciones  empresariales.md\\/[\\w\\d\\s]+\\.(?:\\w+\\.)*\\w+",
+        "for": "files",
+        "order": 7,
+        "useFilePath": true
+      }
+    ],
+    "extraMargin": {
+      "top": 0,
+      "right": 8,
+      "bottom": 0,
+      "left": 6
+    },
+    "iconInTabsEnabled": true,
+    "iconsBackgroundCheckEnabled": true,
+    "iconInTitleEnabled": true,
+    "iconInFrontmatterEnabled": true,
+    "iconsInNotesEnabled": true,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "debugMode": false
+  },
+  "Notas/Semanales/Registro de notas.md": "FasRegistered",
+  "Programacion/Lenguajes de Programacion/Csharp": "TiBrandCSharp",
+  "Programacion/Lenguajes de Programacion/Interfaces.md": "IbDocumentText",
+  "Programacion/Patrones de diseño": "TiBooks",
+  "Programacion/Lenguajes de Programacion": "TiCode",
+  "Configuracion/Apps Scoop.md": "CoSettings",
+  "Programacion/Lenguajes de Programacion/Java": "FabJava",
+  "Programacion/Lenguajes de Programacion/Javascript": "FabJs",
+  "Programacion/Lenguajes de Programacion/Lua": "SiLua",
+  "Programacion/Lenguajes de Programacion/Python": "SiPython",
+  "Sise/Servicios Web/T2-Grupo3.excalidraw.md": "SiExcalidraw",
+  "Sise/Base de datos/Oracle DB.md": "SiExcalidraw"
+}

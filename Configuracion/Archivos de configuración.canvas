@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"e91bb085a517b31c","type":"link","url":"https://github.com/eduardoquea3/nvim_win","x":-1320,"y":-540,"width":920,"height":480},
+		{"id":"593c1b068073a180","x":-337,"y":-194,"width":250,"height":60,"type":"text","text":""},
+		{"id":"ea1326658c537aab","x":-380,"y":-540,"width":600,"height":480,"type":"file","file":"Configuracion/Apps Scoop.md"}
+	],
+	"edges":[]
+}

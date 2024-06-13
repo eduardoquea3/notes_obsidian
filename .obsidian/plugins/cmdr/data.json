@@ -1,0 +1,69 @@
+{
+  "confirmDeletion": false,
+  "showAddCommand": true,
+  "debug": false,
+  "editorMenu": [],
+  "fileMenu": [],
+  "leftRibbon": [
+    {
+      "id": "daily-notes",
+      "icon": "alarm-check",
+      "name": "Nota Diaria",
+      "mode": "3330a1708f60f196",
+      "color": "#32b6c8"
+    }
+  ],
+  "rightRibbon": [],
+  "titleBar": [],
+  "statusBar": [],
+  "pageHeader": [],
+  "macros": [],
+  "explorer": [],
+  "hide": {
+    "statusbar": [],
+    "leftRibbon": [
+      "Open quick switcher",
+      "Open today's daily note",
+      "Insert template",
+      "Open command palette",
+      "Create new canvas",
+      "Manage workspace layouts",
+      "Daily notes: Open today's daily note",
+      "Quick switcher: Open quick switcher ",
+      "Graph view: Open graph view",
+      "Templates: Insert template",
+      "Command palette: Open command palette",
+      "Canvas: Create new canvas",
+      "Full Calendar: Open Calendar",
+      "Excalidraw: Create new drawing - IN A NEW TAB",
+      "DB Folder: Create a new database table",
+      "Workspaces: Manage workspace layouts",
+      "Abrir quick switcher",
+      "Abrir vista de gráfico",
+      "Abrir paleta de comandos",
+      "Abrir selector rápido",
+      "Gestionar disposiciones de espacio de trabajo",
+      "Crear nuevo canvas",
+      "Insertar plantilla",
+      "Abrir vista gráfica",
+      "Abrir la nota de hoy",
+      "Open Full Calendar",
+      "Open homework",
+      "Create a new database table",
+      "Excalidraw",
+      "Advanced Tables Toolbar",
+      "Crear una nueva tabla de base de datos"
+    ]
+  },
+  "spacing": "32",
+  "advancedToolbar": {
+    "rowHeight": 48,
+    "rowCount": 2,
+    "spacing": 16,
+    "buttonWidth": 48,
+    "columnLayout": true,
+    "mappedIcons": [],
+    "tooltips": false,
+    "heightOffset": 4
+  }
+}

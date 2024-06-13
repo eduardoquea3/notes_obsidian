@@ -1,0 +1,11 @@
+{
+  "showLineNumber": true,
+  "vimMode": true,
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "./Media",
+  "showInlineTitle": true,
+  "tabSize": 2,
+  "promptDelete": false,
+  "strictLineBreaks": true
+}

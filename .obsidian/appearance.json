@@ -1,0 +1,17 @@
+{
+  "accentColor": "#86b4fe",
+  "cssTheme": "Border",
+  "theme": "obsidian",
+  "baseFontSize": 18,
+  "interfaceFontFamily": "Cascadia Code,DankMono Nerd Font",
+  "textFontFamily": "Cascadia Code,DankMono Nerd Font",
+  "monospaceFontFamily": "Cascadia Code,DankMono Nerd Font",
+  "baseFontSizeAction": true,
+  "nativeMenus": false,
+  "translucency": false,
+  "enabledCssSnippets": [
+    "img",
+    "style_notes"
+  ],
+  "showViewHeader": true
+}

@@ -1,0 +1,33 @@
+{
+	"nodes":[
+		{"id":"995452026ffa7cfa","type":"link","url":"https://github.com/grillazz/fastapi-sqlalchemy-asyncpg/tree/main","x":-640,"y":-180,"width":400,"height":400},
+		{"id":"9122ab71adf1a124","type":"link","url":"https://github.com/mdhishaamakhtar/fastapi-sqlalchemy-postgres-template/blob/master/utils/post_crud.py","x":-200,"y":-180,"width":400,"height":400},
+		{"id":"0802c88e103db63e","type":"link","url":"https://github.com/mabdullahadeel/yt-farm-todo-app/blob/master/backend/app/api/api_v1/router.py","x":260,"y":-180,"width":400,"height":400},
+		{"id":"75efb2f78936d3fe","type":"text","text":"## Fastapi","x":-98,"y":-360,"width":197,"height":80},
+		{"id":"7dc4513c0928aee9","type":"text","text":"## Paginas de configuraciones o ejemplos","x":-292,"y":-580,"width":585,"height":130},
+		{"id":"726062e32b5845cb","type":"text","text":"## JS","x":-690,"y":-545,"width":250,"height":60},
+		{"id":"aa53205f824d06d3","type":"link","url":"https://github.com/juacax/bootcamp-javascript/blob/main/Clase%2012/script.js","x":-1370,"y":-1210,"width":400,"height":400},
+		{"id":"122305ceaf852827","type":"link","url":"https://fullstackopen.com/en/about/","x":-1370,"y":-715,"width":400,"height":400},
+		{"id":"06a46e99436d2f1b","type":"link","url":"https://saborcriollochelita.github.io/#","x":-1400,"y":-275,"width":460,"height":480},
+		{"id":"d296e80a599012dd","type":"text","text":"## Neovim","x":460,"y":-545,"width":250,"height":60},
+		{"id":"22f0ce17ed42d50f","type":"link","url":"https://www.lazyvim.org/keymaps#todo-commentsnvim","x":840,"y":-1210,"width":400,"height":400},
+		{"id":"efcf0f2700772a05","type":"link","url":"https://github.com/LunarVim/LunarVim","x":840,"y":-650,"width":400,"height":400},
+		{"id":"004f37e0a9cddc45","type":"link","url":"https://beanie-odm.dev/tutorial/defining-a-document/#indexed","x":-640,"y":340,"width":400,"height":400},
+		{"id":"597019d66df9ac77","type":"link","url":"https://www.frontendmentor.io/","x":-765,"y":-1300,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"3c68bf9423999df9","fromNode":"75efb2f78936d3fe","fromSide":"bottom","toNode":"995452026ffa7cfa","toSide":"top"},
+		{"id":"2a26ad1f1c4e4250","fromNode":"75efb2f78936d3fe","fromSide":"bottom","toNode":"9122ab71adf1a124","toSide":"top"},
+		{"id":"c099f961909f3864","fromNode":"75efb2f78936d3fe","fromSide":"bottom","toNode":"0802c88e103db63e","toSide":"top"},
+		{"id":"5ac9424a820536af","fromNode":"726062e32b5845cb","fromSide":"left","toNode":"aa53205f824d06d3","toSide":"right"},
+		{"id":"c1d7bc2ce854a88e","fromNode":"726062e32b5845cb","fromSide":"left","toNode":"122305ceaf852827","toSide":"right"},
+		{"id":"0d5e7f14906a0a0f","fromNode":"726062e32b5845cb","fromSide":"left","toNode":"06a46e99436d2f1b","toSide":"right"},
+		{"id":"790214222b94e2f6","fromNode":"7dc4513c0928aee9","fromSide":"bottom","toNode":"75efb2f78936d3fe","toSide":"top"},
+		{"id":"c28ce710b304533e","fromNode":"7dc4513c0928aee9","fromSide":"left","toNode":"726062e32b5845cb","toSide":"right"},
+		{"id":"6d12a5e0b8de317d","fromNode":"7dc4513c0928aee9","fromSide":"right","toNode":"d296e80a599012dd","toSide":"left"},
+		{"id":"d565b903b8e9bdd9","fromNode":"d296e80a599012dd","fromSide":"right","toNode":"22f0ce17ed42d50f","toSide":"left"},
+		{"id":"8354f312b95e58c4","fromNode":"d296e80a599012dd","fromSide":"right","toNode":"efcf0f2700772a05","toSide":"left"},
+		{"id":"ebada2546957fb07","fromNode":"995452026ffa7cfa","fromSide":"bottom","toNode":"004f37e0a9cddc45","toSide":"top"},
+		{"id":"111a95647d094d23","fromNode":"726062e32b5845cb","fromSide":"top","toNode":"597019d66df9ac77","toSide":"bottom"}
+	]
+}

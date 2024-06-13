@@ -1,0 +1,254 @@
+{
+  "main": {
+    "id": "023f6e2b28ce3472",
+    "type": "split",
+    "children": [
+      {
+        "id": "200ae77ba2b1d4ca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f15795c2e3e6878e",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Configuracion/Archivos de configuración.canvas",
+                "viewState": {
+                  "x": -860,
+                  "y": -300,
+                  "zoom": 0
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2dcdd2f6556a08ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "9f58d9f0a5eae630",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "66774100bca2d8de",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "78d3841f288b9035",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "[\"banner\"]",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "950f3a41763f6430",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "412dbb0b4ce09ac2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "ef55b7b678cd0ddd",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4db3f675f9c665b7",
+    "type": "split",
+    "children": [
+      {
+        "id": "9060fcf9eb233c73",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "535c08f721aeaa10",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "43dfec00293bca9d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Configuracion/Archivos de configuración.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8d4f9d80f7e3236c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Configuracion/Archivos de configuración.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "00e8dcd1ab788e2d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "00c3142ceba083ad",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "a44ef2a489e14927",
+            "type": "leaf",
+            "state": {
+              "type": "quiet-outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 342
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:Crear nuevo lienzo": false,
+      "dbfolder:Crear una nueva tabla de base de datos": false,
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "workspaces:Gestionar disposiciones de espacio de trabajo": false,
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "homework-manager:Open homework": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-kanban:Create new board": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "obsidian42-brat:BRAT": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "00c3142ceba083ad",
+  "lastOpenFiles": [
+    "Configuracion/Apps Scoop.md",
+    "Rutinas/Rutina de brazos.md",
+    "Media/Calendar.png",
+    "README.md",
+    "Sin título.md",
+    "Sise/Servicios Web/WCF.md",
+    "Sise/Servicios Web/Media/Pasted image 20240613121443.png",
+    "Sise/Servicios Web/Media",
+    "Untitled 1.md",
+    "Untitled.md",
+    "Untitled",
+    "Notas/Diarias/14-12-2023.md",
+    "Programacion/Lenguajes de Programacion/Java/Web/JSP.md",
+    "Programacion/Lenguajes de Programacion/Java/Librerias/Librerias.md",
+    "Programacion/Config-Ejemplos.canvas",
+    "Sise/Servicios Web/T2-Grupo3.excalidraw.md",
+    "Sise/Analisis y diseño de sistemas/objeto controlador - objeto borde.md",
+    "Sise/Analisis y diseño de sistemas/Identificación de objetos borde.md",
+    "Sise/Analisis y diseño de sistemas/documentos trabajados 28-12.md",
+    "Sise/Analisis y diseño de sistemas/4 + 1 vistas.md",
+    "Sise/Analisis y diseño de sistemas/~$SA_EP_Quea_Hancco_Eduardo_Franco.docx",
+    "Sise/Aplicaciones web/Diseños para MVC.md",
+    "Sise/Base de datos/Comandos Iniciales.md",
+    "Sise/Base de datos/Oracle DB.md",
+    "Spaces",
+    "Sise/Base de datos/.md",
+    "Sise/Base de datos/Media/Pasted Image 20240529215019_290.png",
+    "Sise/Gestión de Proyectos/Semana 5 - GE.md",
+    "Excalidraw/Media/Pasted Image 20240102132550_743.png",
+    "Sise/Servicios Web/T2-Grupo3.excalidraw",
+    "Documentos Personales/Movements_Savings_1717032590278_2024_MAY_29_20_29_50.pdf",
+    "Documentos Personales/LCETD015I00000734114824.pdf",
+    "Documentos Personales/RM12300141719009V001.pdf",
+    "Documentos Personales/HRL12300141719009V002.pdf",
+    "Documentos Personales/HL12300141719009V001.pdf",
+    "Documentos.md",
+    "Excalidraw/Drawing 2024-05-25 18.15.28.excalidraw.md",
+    "Programacion/Media/download.svg",
+    "Programacion/Media/download 1.svg",
+    "Configuracion/Archivos de configuración.canvas",
+    "Templates/Notas Diarias.md",
+    "Sise/Analisis y diseño de sistemas/Media/ArcoLinux_2024-01-04_19-38-15.png",
+    "Sise/Analisis y diseño de sistemas/Media/ArcoLinux_2024-01-04_19-33-24 1.png",
+    "Sise/Analisis y diseño de sistemas/Media/ArcoLinux_2024-01-04_19-33-24.png",
+    "Configuracion/Dowload apps.md",
+    "Programacion/Sin título.md",
+    "Configuracion/Untitled 1.canvas",
+    "undefined.md",
+    "Canva/Sin título 1.canvas",
+    "Canva/Sin título.canvas",
+    "Sin título 1.canvas",
+    "Sin título.canvas",
+    "java.canvas",
+    "Sise/Analisis y diseño de sistemas/Media/ArcoLinux_2024-01-04_19-48-49.png"
+  ]
+}
