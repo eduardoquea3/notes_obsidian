@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Comandos Iniciales",
+      "path": "Sise/Base de datos/Comandos Iniciales.md"
+    },
+    {
       "basename": "Archivos de configuración",
       "path": "Configuracion/Archivos de configuración.canvas"
     },
@@ -59,10 +63,6 @@
     {
       "basename": "4 + 1 vistas",
       "path": "Sise/Analisis y diseño de sistemas/4 + 1 vistas.md"
-    },
-    {
-      "basename": "Comandos Iniciales",
-      "path": "Sise/Base de datos/Comandos Iniciales.md"
     },
     {
       "basename": "Oracle DB",
