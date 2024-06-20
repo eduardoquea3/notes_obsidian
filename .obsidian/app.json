@@ -7,5 +7,7 @@
   "showInlineTitle": true,
   "tabSize": 2,
   "promptDelete": false,
-  "strictLineBreaks": true
+  "strictLineBreaks": true,
+  "showRibbon": true,
+  "readableLineLength": false
 }

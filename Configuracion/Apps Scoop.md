@@ -1,6 +1,8 @@
 ---
-sticker: lucide//settings
+cssclasses:
+  - GE
 ---
+
 ## Instalación de apps fundamentales
 ```ps1
 scoop install 7zip unzip sudo vcredist2022 git bat

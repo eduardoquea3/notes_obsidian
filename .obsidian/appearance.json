@@ -1,17 +1,18 @@
 {
-  "accentColor": "#86b4fe",
+  "accentColor": "",
   "cssTheme": "Border",
   "theme": "obsidian",
-  "baseFontSize": 18,
-  "interfaceFontFamily": "Cascadia Code,DankMono Nerd Font",
-  "textFontFamily": "Cascadia Code,DankMono Nerd Font",
-  "monospaceFontFamily": "Cascadia Code,DankMono Nerd Font",
+  "baseFontSize": 16,
+  "interfaceFontFamily": "DankMono Nerd Font",
+  "textFontFamily": "DankMono Nerd Font",
+  "monospaceFontFamily": "DankMono Nerd Font",
   "baseFontSizeAction": true,
   "nativeMenus": false,
   "translucency": false,
   "enabledCssSnippets": [
     "img",
-    "style_notes"
+    "style_notes",
+    "GE"
   ],
   "showViewHeader": true
 }

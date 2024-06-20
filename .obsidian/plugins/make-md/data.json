@@ -56,8 +56,8 @@
     "Spaces/Home",
     "/",
     "//Untitled",
-    "//Sise",
-    "//Sise/Sise/Base de datos"
+    "//Sise/Sise/Base de datos",
+    "//Sise"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
@@ -102,7 +102,7 @@
   "autoAddContextsToSubtags": true,
   "autoMigration08": false,
   "releaseNotesPrompt": 0.9,
-  "enableDefaultSpaces": true,
+  "enableDefaultSpaces": false,
   "showSpacePinIcon": true,
   "minimalFix": false,
   "experimental": false,

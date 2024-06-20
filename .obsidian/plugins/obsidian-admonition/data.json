@@ -1,0 +1,37 @@
+{
+  "userAdmonitions": {
+    "Note": {
+      "type": "Note",
+      "color": "255, 255, 255",
+      "icon": {
+        "name": "eye",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "ojo",
+      "injectColor": true,
+      "noTitle": false
+    }
+  },
+  "syntaxHighlight": false,
+  "copyButton": false,
+  "version": "10.3.2",
+  "autoCollapse": false,
+  "defaultCollapseType": "open",
+  "injectColor": true,
+  "parseTitles": true,
+  "dropShadow": true,
+  "hideEmpty": false,
+  "open": {
+    "admonitions": false,
+    "icons": true,
+    "other": false,
+    "advanced": false
+  },
+  "icons": [],
+  "useFontAwesome": true,
+  "rpgDownloadedOnce": false,
+  "msDocConverted": false,
+  "useSnippet": false,
+  "snippetPath": "custom-admonitions.c33b5d"
+}

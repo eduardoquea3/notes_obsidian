@@ -1,17 +1,13 @@
 ---
 cssclasses:
-  - GE.css
+  - GE
 ---
 
-```tabs
 
-tab: primero
-## hola
-
-tab: segundo
-* chau
-
-
+# Crear Tablespace
+```sql
+create tablespace nombre
 ```
+* chau
 
 

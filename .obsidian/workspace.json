@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "2b5067d10defcd0a",
+        "id": "13411221c5d9ccaf",
         "type": "tabs",
         "children": [
           {
-            "id": "3c6bed9bf4b942e2",
+            "id": "826bd827863741ce",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sise/Base de datos/Comandos Iniciales.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -74,19 +70,19 @@
             }
           },
           {
-            "id": "ef55b7b678cd0ddd",
+            "id": "d8029ab30f2c9d09",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "4db3f675f9c665b7",
@@ -110,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sise/Base de datos/Comandos Iniciales.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +122,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sise/Base de datos/Comandos Iniciales.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +139,19 @@
             }
           },
           {
-            "id": "a44ef2a489e14927",
+            "id": "1315dd2edb56b205",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "31f5bca332813ad4",
             "type": "leaf",
             "state": {
               "type": "quiet-outline",
@@ -153,11 +159,12 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 342
+    "width": 342,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -172,21 +179,35 @@
       "homework-manager:Open homework": false,
       "templater-obsidian:Templater": false,
       "obsidian-kanban:Create new board": false,
+      "obsidian42-brat:BRAT": false,
+      "homepage:Open homepage": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false,
-      "obsidian42-brat:BRAT": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "3c6bed9bf4b942e2",
+  "active": "826bd827863741ce",
   "lastOpenFiles": [
-    "Configuracion/Archivos de configuración.canvas",
-    "Configuracion/Apps Scoop.md",
-    "Rutinas/Rutina de brazos.md",
-    "Media/Calendar.png",
+    "Sise/Analisis y diseño de sistemas/objeto controlador - objeto borde.md",
+    "Sise/Analisis y diseño de sistemas/~$ADSA_EP_Quea_Hancco_Eduardo_Franco.xlsx",
+    "Sise/Analisis y diseño de sistemas/4 + 1 vistas.md",
     "README.md",
+    "Rutinas/Rutina de brazos.md",
     "Sin título.md",
+    "Programacion/Lenguajes de Programacion/Interfaces.md",
+    "Programacion/Lenguajes de Programacion/Python/Deco.md",
+    "Programacion/Lenguajes de Programacion/Python/Decoradores.md",
+    "Configuracion/Apps Scoop.md",
+    "Configuracion/Dowload apps.md",
+    "Configuracion/Archivos de configuración.canvas",
+    "Documentos Personales/RM12300141719009V001.pdf",
+    "Documentos Personales/LCETD015I00000734114824.pdf",
+    "Documentos Personales/HRL12300141719009V002.pdf",
+    "Documentos Personales/HL12300141719009V001.pdf",
+    "Sise/Base de datos/Oracle DB.md",
+    "Sise/Base de datos/Comandos Iniciales.md",
+    "Media/Calendar.png",
     "Sise/Servicios Web/WCF.md",
     "Sise/Servicios Web/Media/Pasted image 20240613121443.png",
     "Sise/Servicios Web/Media",
@@ -198,35 +219,22 @@
     "Programacion/Lenguajes de Programacion/Java/Librerias/Librerias.md",
     "Programacion/Config-Ejemplos.canvas",
     "Sise/Servicios Web/T2-Grupo3.excalidraw.md",
-    "Sise/Analisis y diseño de sistemas/objeto controlador - objeto borde.md",
     "Sise/Analisis y diseño de sistemas/Identificación de objetos borde.md",
     "Sise/Analisis y diseño de sistemas/documentos trabajados 28-12.md",
-    "Sise/Analisis y diseño de sistemas/4 + 1 vistas.md",
     "Sise/Analisis y diseño de sistemas/~$SA_EP_Quea_Hancco_Eduardo_Franco.docx",
     "Sise/Aplicaciones web/Diseños para MVC.md",
-    "Sise/Base de datos/Comandos Iniciales.md",
-    "Sise/Base de datos/Oracle DB.md",
     "Spaces",
     "Sise/Base de datos/.md",
     "Sise/Base de datos/Media/Pasted Image 20240529215019_290.png",
     "Sise/Gestión de Proyectos/Semana 5 - GE.md",
     "Excalidraw/Media/Pasted Image 20240102132550_743.png",
     "Sise/Servicios Web/T2-Grupo3.excalidraw",
-    "Documentos Personales/Movements_Savings_1717032590278_2024_MAY_29_20_29_50.pdf",
-    "Documentos Personales/LCETD015I00000734114824.pdf",
-    "Documentos Personales/RM12300141719009V001.pdf",
-    "Documentos Personales/HRL12300141719009V002.pdf",
-    "Documentos Personales/HL12300141719009V001.pdf",
     "Documentos.md",
-    "Excalidraw/Drawing 2024-05-25 18.15.28.excalidraw.md",
     "Programacion/Media/download.svg",
     "Programacion/Media/download 1.svg",
-    "Templates/Notas Diarias.md",
     "Sise/Analisis y diseño de sistemas/Media/ArcoLinux_2024-01-04_19-38-15.png",
     "Sise/Analisis y diseño de sistemas/Media/ArcoLinux_2024-01-04_19-33-24 1.png",
     "Sise/Analisis y diseño de sistemas/Media/ArcoLinux_2024-01-04_19-33-24.png",
-    "Configuracion/Dowload apps.md",
-    "Programacion/Sin título.md",
     "Configuracion/Untitled 1.canvas",
     "Canva/Sin título 1.canvas",
     "Canva/Sin título.canvas",
