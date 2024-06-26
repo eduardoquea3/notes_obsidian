@@ -1,18 +1,19 @@
 {
   "accentColor": "",
-  "cssTheme": "Border",
+  "cssTheme": "Prism",
   "theme": "obsidian",
-  "baseFontSize": 16,
+  "baseFontSize": 14,
   "interfaceFontFamily": "DankMono Nerd Font",
   "textFontFamily": "DankMono Nerd Font",
   "monospaceFontFamily": "DankMono Nerd Font",
-  "baseFontSizeAction": true,
+  "baseFontSizeAction": false,
   "nativeMenus": false,
   "translucency": false,
   "enabledCssSnippets": [
     "img",
-    "style_notes",
-    "GE"
+    "global",
+    "reset",
+    "home"
   ],
   "showViewHeader": true
 }

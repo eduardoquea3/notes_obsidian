@@ -1,13 +1,18 @@
 {
-  "showLineNumber": true,
+  "showLineNumber": false,
   "vimMode": true,
   "alwaysUpdateLinks": true,
-  "showUnsupportedFiles": true,
+  "showUnsupportedFiles": false,
   "attachmentFolderPath": "./Media",
-  "showInlineTitle": true,
+  "showInlineTitle": false,
   "tabSize": 2,
   "promptDelete": false,
   "strictLineBreaks": true,
-  "showRibbon": true,
-  "readableLineLength": false
+  "showRibbon": false,
+  "readableLineLength": false,
+  "defaultViewMode": "preview",
+  "propertiesInDocument": "hidden",
+  "foldHeading": true,
+  "newFileLocation": "root",
+  "newFileFolderPath": "/"
 }

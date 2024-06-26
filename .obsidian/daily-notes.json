@@ -1,5 +1,6 @@
 {
   "format": "Y-MM-D",
   "folder": "Notas/Diarias",
-  "autorun": false
+  "autorun": false,
+  "template": "Settings/Templates/Notas Diarias"
 }

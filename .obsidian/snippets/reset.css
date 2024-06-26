@@ -1,0 +1,11 @@
+.reset{
+  & h1{
+    font-size: 60px;
+    /* display: inline; */
+    /* padding: 2px 16px; */
+    /* background: #18284c; */
+    /* border: 1px solid #4367b3; */
+    border-radius: 20px;
+    text-align: center;
+  }
+}

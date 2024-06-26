@@ -4,18 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "13411221c5d9ccaf",
+        "id": "15339377f13003ce",
         "type": "tabs",
         "children": [
           {
-            "id": "826bd827863741ce",
+            "id": "6e33d9f752927569",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -44,7 +45,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"banner\"]",
+                "query": "tag:#excalidraw",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +71,7 @@
             }
           },
           {
-            "id": "d8029ab30f2c9d09",
+            "id": "9d735ef2e8c00c31",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -81,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 222.5
   },
   "right": {
     "id": "4db3f675f9c665b7",
@@ -92,14 +92,6 @@
         "id": "9060fcf9eb233c73",
         "type": "tabs",
         "children": [
-          {
-            "id": "535c08f721aeaa10",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
           {
             "id": "43dfec00293bca9d",
             "type": "leaf",
@@ -151,7 +143,23 @@
             }
           },
           {
-            "id": "31f5bca332813ad4",
+            "id": "7fa2ca861323a7e1",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {}
+            }
+          },
+          {
+            "id": "604388c5125e5db2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "637f218d2fb38c7b",
             "type": "leaf",
             "state": {
               "type": "quiet-outline",
@@ -159,88 +167,119 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
+      },
+      {
+        "id": "f1b06b05f8977549",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fe51e30e4d5d4234",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          }
+        ]
+      },
+      {
+        "id": "e382dc9cc568ad55",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a315931700353ad9",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 342,
-    "collapsed": true
+    "width": 342
   },
   "left-ribbon": {
     "hiddenItems": {
-      "canvas:Crear nuevo lienzo": false,
-      "dbfolder:Crear una nueva tabla de base de datos": false,
-      "switcher:Abrir selector rápido": false,
-      "graph:Abrir vista gráfica": false,
-      "daily-notes:Abrir la nota de hoy": false,
-      "command-palette:Abrir paleta de comandos": false,
-      "workspaces:Gestionar disposiciones de espacio de trabajo": false,
-      "obsidian-full-calendar:Open Full Calendar": false,
-      "homework-manager:Open homework": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-kanban:Create new board": false,
-      "obsidian42-brat:BRAT": false,
-      "homepage:Open homepage": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian42-brat:BRAT": false,
+      "dbfolder:Create a new database table": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "homepage:Open homepage": false,
+      "homework-manager:Open homework": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-kanban:Create new board": false,
+      "periodic-notes:Open this week": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "826bd827863741ce",
+  "active": "7fa2ca861323a7e1",
   "lastOpenFiles": [
+    "Home.md",
+    "Media/Home-20240626131157487.webp",
+    "README.md",
+    "Configuracion/Archivos de configuración.canvas",
+    "Media/Tracker.png",
+    "Media/Obsidian-Link-Converter.png",
+    "Media/Kanban.png",
+    "Media/Icon-Folder.png",
+    "Media/Highlighting.png",
+    "Media/Full-Calendar.png",
+    "Media/Excalidraw.png",
+    "Media/Dataview.png",
+    "Media/Commander.png",
+    "Media",
+    "Vault.md",
+    "Configuracion/Apps Scoop.md",
+    "Notas/Diarias/2024-06-26.md",
+    "Settings",
+    "Notas/Diarias/2024-06-25.md",
+    "Notas/Untitled.md",
+    "Untitled.md",
+    "Sise/Calidad de software",
+    "Home",
+    "Sise/Servicios Web/T2-Grupo3.excalidraw.md",
+    "Sise/Base de datos/Oracle DB.md",
+    "Notas/Diarias/02-01-2024.md",
+    "Notas/Diarias/01-01-2024.md",
+    "Main.md",
+    "Notas/Diarias/2024-06-23.md",
+    "Sise/Base de datos/Comandos Iniciales.md",
+    "Programacion/Lenguajes de Programacion/Interfaces.md",
+    "22.md",
     "Sise/Analisis y diseño de sistemas/objeto controlador - objeto borde.md",
     "Sise/Analisis y diseño de sistemas/~$ADSA_EP_Quea_Hancco_Eduardo_Franco.xlsx",
     "Sise/Analisis y diseño de sistemas/4 + 1 vistas.md",
-    "README.md",
     "Rutinas/Rutina de brazos.md",
-    "Sin título.md",
-    "Programacion/Lenguajes de Programacion/Interfaces.md",
     "Programacion/Lenguajes de Programacion/Python/Deco.md",
     "Programacion/Lenguajes de Programacion/Python/Decoradores.md",
-    "Configuracion/Apps Scoop.md",
     "Configuracion/Dowload apps.md",
-    "Configuracion/Archivos de configuración.canvas",
     "Documentos Personales/RM12300141719009V001.pdf",
     "Documentos Personales/LCETD015I00000734114824.pdf",
     "Documentos Personales/HRL12300141719009V002.pdf",
     "Documentos Personales/HL12300141719009V001.pdf",
-    "Sise/Base de datos/Oracle DB.md",
-    "Sise/Base de datos/Comandos Iniciales.md",
-    "Media/Calendar.png",
     "Sise/Servicios Web/WCF.md",
-    "Sise/Servicios Web/Media/Pasted image 20240613121443.png",
     "Sise/Servicios Web/Media",
     "Untitled 1.md",
-    "Untitled.md",
-    "Untitled",
-    "Notas/Diarias/14-12-2023.md",
-    "Programacion/Lenguajes de Programacion/Java/Web/JSP.md",
-    "Programacion/Lenguajes de Programacion/Java/Librerias/Librerias.md",
     "Programacion/Config-Ejemplos.canvas",
-    "Sise/Servicios Web/T2-Grupo3.excalidraw.md",
-    "Sise/Analisis y diseño de sistemas/Identificación de objetos borde.md",
-    "Sise/Analisis y diseño de sistemas/documentos trabajados 28-12.md",
-    "Sise/Analisis y diseño de sistemas/~$SA_EP_Quea_Hancco_Eduardo_Franco.docx",
-    "Sise/Aplicaciones web/Diseños para MVC.md",
-    "Spaces",
-    "Sise/Base de datos/.md",
-    "Sise/Base de datos/Media/Pasted Image 20240529215019_290.png",
-    "Sise/Gestión de Proyectos/Semana 5 - GE.md",
-    "Excalidraw/Media/Pasted Image 20240102132550_743.png",
-    "Sise/Servicios Web/T2-Grupo3.excalidraw",
-    "Documentos.md",
-    "Programacion/Media/download.svg",
-    "Programacion/Media/download 1.svg",
-    "Sise/Analisis y diseño de sistemas/Media/ArcoLinux_2024-01-04_19-38-15.png",
-    "Sise/Analisis y diseño de sistemas/Media/ArcoLinux_2024-01-04_19-33-24 1.png",
-    "Sise/Analisis y diseño de sistemas/Media/ArcoLinux_2024-01-04_19-33-24.png",
     "Configuracion/Untitled 1.canvas",
     "Canva/Sin título 1.canvas",
     "Canva/Sin título.canvas",
     "Sin título 1.canvas",
     "Sin título.canvas",
-    "java.canvas",
-    "Sise/Analisis y diseño de sistemas/Media/ArcoLinux_2024-01-04_19-48-49.png"
+    "java.canvas"
   ]
 }
