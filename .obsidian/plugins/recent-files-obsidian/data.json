@@ -5,8 +5,28 @@
       "path": "README.md"
     },
     {
+      "basename": "Tasks",
+      "path": "Tasks.md"
+    },
+    {
+      "basename": "Home",
+      "path": "Home.md"
+    },
+    {
       "basename": "Prueba",
       "path": "Prueba.md"
+    },
+    {
+      "basename": "Home-20240626131157487",
+      "path": "Media/Home-20240626131157487.webp"
+    },
+    {
+      "basename": "README-20240628161946249",
+      "path": "Media/README-20240628161946249.webp"
+    },
+    {
+      "basename": "ciclo_vida_proyecto",
+      "path": "Media/ciclo_vida_proyecto.png"
     },
     {
       "basename": "Pasted image 20240523175141",
@@ -19,14 +39,6 @@
     {
       "basename": "T2-Grupo3.excalidraw",
       "path": "Sise/Servicios Web/T2-Grupo3.excalidraw.md"
-    },
-    {
-      "basename": "Home",
-      "path": "Home.md"
-    },
-    {
-      "basename": "Home-20240626131157487",
-      "path": "Media/Home-20240626131157487.webp"
     },
     {
       "basename": "Decorador",
@@ -67,10 +79,6 @@
     {
       "basename": "Untitled 4",
       "path": "Notas/Diarias/Untitled 4.md"
-    },
-    {
-      "basename": "Tasks",
-      "path": "Tasks.md"
     },
     {
       "basename": "22-12-2023",

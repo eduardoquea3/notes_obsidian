@@ -6,7 +6,7 @@
     "emojiStyle": "native",
     "iconColor": "#d1d1d1",
     "recentlyUsedIcons": [
-      "OcPersonFill16"
+      "FasCode"
     ],
     "recentlyUsedIconsSize": 1,
     "rules": [],
@@ -32,5 +32,37 @@
   "Programacion/Lenguajes de Programacion/Csharp": "TiBrandCSharp",
   "Programacion/Patrones de diseño": "TiBooks",
   "Programacion/Lenguajes de Programacion/Javascript": "FabJs",
-  "Programacion/Lenguajes de Programacion/Lua": "SiLua"
+  "Programacion/Lenguajes de Programacion/Lua": "SiLua",
+  "Configuracion": {
+    "iconName": "LiFolderCog",
+    "iconColor": "#787373"
+  },
+  "Documentos Personales": {
+    "iconName": "RiFolderUserFill",
+    "iconColor": "#6980f2"
+  },
+  "Notas": {
+    "iconName": "TiCalendar",
+    "iconColor": "#7fd2fe"
+  },
+  "Rutinas": {
+    "iconName": "RaMuscleUp",
+    "iconColor": "#b69c77"
+  },
+  "Settings": {
+    "iconName": "FiSettings",
+    "iconColor": "#5e5555"
+  },
+  "Sise": {
+    "iconName": "TiSchool",
+    "iconColor": "#c85656"
+  },
+  "Media": {
+    "iconName": "OcFileMedia24",
+    "iconColor": "#ffdc7a"
+  },
+  "Programacion": {
+    "iconName": "FasCode",
+    "iconColor": "#373ea0"
+  }
 }

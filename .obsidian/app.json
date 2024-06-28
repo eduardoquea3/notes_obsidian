@@ -9,7 +9,7 @@
   "promptDelete": false,
   "strictLineBreaks": true,
   "showRibbon": false,
-  "readableLineLength": false,
+  "readableLineLength": true,
   "defaultViewMode": "preview",
   "propertiesInDocument": "hidden",
   "foldHeading": true,

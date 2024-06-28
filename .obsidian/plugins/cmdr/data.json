@@ -3,15 +3,7 @@
   "showAddCommand": true,
   "debug": false,
   "editorMenu": [],
-  "fileMenu": [
-    {
-      "id": "editor:save-file",
-      "icon": "activity",
-      "name": "Save current file",
-      "mode": "any",
-      "color": "#ffffff"
-    }
-  ],
+  "fileMenu": [],
   "leftRibbon": [
     {
       "id": "daily-notes",

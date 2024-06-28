@@ -4,29 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "8bc15dc5fdb28099",
+        "id": "bd9dd225d8c882de",
         "type": "tabs",
         "children": [
           {
-            "id": "2d4a322bbf7c2e64",
+            "id": "88b3a6116a044072",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "README.md",
                 "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "be53031acc18f171",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Prueba.md",
-                "mode": "source",
                 "source": false
               }
             }
@@ -97,8 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 222.5,
-    "collapsed": true
+    "width": 222.5
   },
   "right": {
     "id": "4db3f675f9c665b7",
@@ -232,15 +219,21 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "2d4a322bbf7c2e64",
+  "active": "88b3a6116a044072",
   "lastOpenFiles": [
-    "Prueba.md",
+    "Tasks.md",
     "README.md",
+    "Home.md",
+    "Prueba.md",
+    "Notas/Diarias/2024-06-28.md",
+    "Media/README-20240628161252219.webp",
+    "Media/Home-20240626131157487.webp",
+    "Media/README-20240628161946249.webp",
+    "Media/README-20240628161019265.webp",
+    "Media/ciclo_vida_proyecto.png",
     "Rutinas/Media/Pasted image 20240523175141.png",
     "Media/Calendar.png",
     "Sise/Servicios Web/T2-Grupo3.excalidraw.md",
-    "Home.md",
-    "Media/Home-20240626131157487.webp",
     "60. Life Areas.md",
     "Programacion/Lenguajes de Programacion/Python/Decorador.md",
     "Configuracion/Archivos de configuración.canvas",
@@ -253,13 +246,11 @@
     "Notas/Diarias/Untitled 2.md",
     "Notas/Diarias/Untitled 3.md",
     "Notas/Diarias/Untitled 4.md",
-    "Notas/Diarias/2024-06-28.md",
     "Notas/Diarias/2024-06-27.md",
     "Notas/Diarias/2024-06-26.md",
     "2024-06-28.md",
     "Notas/Diarias/2024-06-19.md",
     "2024-06-26.md",
-    "Tasks.md",
     "Sise/Aplicaciones web/22-12-2023.md",
     "Sise/Gestión de Proyectos/07-12-2023.md",
     "Sise/Analisis y diseño de sistemas/(07_and_22)-12-2023.md",
@@ -267,10 +258,6 @@
     "Media/Tracker.png",
     "Media/Obsidian-Link-Converter.png",
     "Media/Kanban.png",
-    "Media/Icon-Folder.png",
-    "Media/Highlighting.png",
-    "Media/Full-Calendar.png",
-    "Media/Excalidraw.png",
     "Media",
     "Settings",
     "Sise/Calidad de software",
