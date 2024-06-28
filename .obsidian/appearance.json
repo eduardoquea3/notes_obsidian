@@ -1,6 +1,6 @@
 {
   "accentColor": "",
-  "cssTheme": "Prism",
+  "cssTheme": "Border",
   "theme": "obsidian",
   "baseFontSize": 14,
   "interfaceFontFamily": "DankMono Nerd Font",
@@ -13,7 +13,8 @@
     "img",
     "global",
     "reset",
-    "home"
+    "home",
+    "prueba"
   ],
   "showViewHeader": true
 }

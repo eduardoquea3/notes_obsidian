@@ -1,32 +1,104 @@
 {
   "recentFiles": [
     {
-      "basename": "Home",
-      "path": "Home.md"
-    },
-    {
       "basename": "README",
       "path": "README.md"
     },
     {
-      "basename": "Apps Scoop",
-      "path": "Configuracion/Apps Scoop.md"
+      "basename": "Prueba",
+      "path": "Prueba.md"
+    },
+    {
+      "basename": "Pasted image 20240523175141",
+      "path": "Rutinas/Media/Pasted image 20240523175141.png"
+    },
+    {
+      "basename": "Calendar",
+      "path": "Media/Calendar.png"
     },
     {
       "basename": "T2-Grupo3.excalidraw",
       "path": "Sise/Servicios Web/T2-Grupo3.excalidraw.md"
     },
     {
+      "basename": "Home",
+      "path": "Home.md"
+    },
+    {
+      "basename": "Home-20240626131157487",
+      "path": "Media/Home-20240626131157487.webp"
+    },
+    {
+      "basename": "Decorador",
+      "path": "Programacion/Lenguajes de Programacion/Python/Decorador.md"
+    },
+    {
+      "basename": "Archivos de configuración",
+      "path": "Configuracion/Archivos de configuración.canvas"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Configuracion/Untitled.canvas"
+    },
+    {
+      "basename": "Dowload apps",
+      "path": "Configuracion/Dowload apps.md"
+    },
+    {
+      "basename": "Apps Scoop",
+      "path": "Configuracion/Apps Scoop.md"
+    },
+    {
+      "basename": "Notas Diarias",
+      "path": "Settings/Templates/Notas Diarias.md"
+    },
+    {
+      "basename": "Untitled 1",
+      "path": "Notas/Diarias/Untitled 1.md"
+    },
+    {
+      "basename": "Untitled 2",
+      "path": "Notas/Diarias/Untitled 2.md"
+    },
+    {
+      "basename": "Untitled 3",
+      "path": "Notas/Diarias/Untitled 3.md"
+    },
+    {
+      "basename": "Untitled 4",
+      "path": "Notas/Diarias/Untitled 4.md"
+    },
+    {
+      "basename": "Tasks",
+      "path": "Tasks.md"
+    },
+    {
+      "basename": "22-12-2023",
+      "path": "Sise/Aplicaciones web/22-12-2023.md"
+    },
+    {
+      "basename": "07-12-2023",
+      "path": "Sise/Gestión de Proyectos/07-12-2023.md"
+    },
+    {
+      "basename": "(07_and_22)-12-2023",
+      "path": "Sise/Analisis y diseño de sistemas/(07_and_22)-12-2023.md"
+    },
+    {
+      "basename": "14-12-2023",
+      "path": "Sise/Analisis y diseño de sistemas/14-12-2023.md"
+    },
+    {
+      "basename": "21-12-2023",
+      "path": "Sise/Analisis y diseño de sistemas/21-12-2023.md"
+    },
+    {
+      "basename": "Rutina de brazos",
+      "path": "Rutinas/Rutina de brazos.md"
+    },
+    {
       "basename": "Oracle DB",
       "path": "Sise/Base de datos/Oracle DB.md"
-    },
-    {
-      "basename": "02-01-2024",
-      "path": "Notas/Diarias/02-01-2024.md"
-    },
-    {
-      "basename": "01-01-2024",
-      "path": "Notas/Diarias/01-01-2024.md"
     },
     {
       "basename": "Comandos Iniciales",
@@ -45,20 +117,8 @@
       "path": "Sise/Analisis y diseño de sistemas/4 + 1 vistas.md"
     },
     {
-      "basename": "Rutina de brazos",
-      "path": "Rutinas/Rutina de brazos.md"
-    },
-    {
-      "basename": "Deco",
-      "path": "Programacion/Lenguajes de Programacion/Python/Deco.md"
-    },
-    {
       "basename": "Decoradores",
       "path": "Programacion/Lenguajes de Programacion/Python/Decoradores.md"
-    },
-    {
-      "basename": "Dowload apps",
-      "path": "Configuracion/Dowload apps.md"
     },
     {
       "basename": "RM12300141719009V001",
@@ -79,10 +139,6 @@
     {
       "basename": "WCF",
       "path": "Sise/Servicios Web/WCF.md"
-    },
-    {
-      "basename": "14-12-2023",
-      "path": "Notas/Diarias/14-12-2023.md"
     },
     {
       "basename": "JSP",
@@ -121,10 +177,6 @@
       "path": "Programacion/Media/download 1.svg"
     },
     {
-      "basename": "Notas Diarias",
-      "path": "Settings/Templates/Notas Diarias.md"
-    },
-    {
       "basename": "ArcoLinux_2024-01-04_19-38-15",
       "path": "Sise/Analisis y diseño de sistemas/Media/ArcoLinux_2024-01-04_19-38-15.png"
     },
@@ -135,50 +187,6 @@
     {
       "basename": "ArcoLinux_2024-01-04_19-33-24",
       "path": "Sise/Analisis y diseño de sistemas/Media/ArcoLinux_2024-01-04_19-33-24.png"
-    },
-    {
-      "basename": "undefined",
-      "path": "undefined.md"
-    },
-    {
-      "basename": "MyBatis",
-      "path": "Programacion/Lenguajes de Programacion/Java/Web/MyBatis.md"
-    },
-    {
-      "basename": "Tareas",
-      "path": "Tareas.md"
-    },
-    {
-      "basename": "Patrón DAO",
-      "path": "Programacion/Patrones de diseño/Patrón DAO.md"
-    },
-    {
-      "basename": "Notas Semanales",
-      "path": "Notas/Semanales/Notas Semanales.md"
-    },
-    {
-      "basename": "21-02-2024",
-      "path": "Notas/Diarias/21-02-2024.md"
-    },
-    {
-      "basename": "21-12-2023",
-      "path": "Notas/Diarias/21-12-2023.md"
-    },
-    {
-      "basename": "22-02-2024",
-      "path": "Notas/Diarias/22-02-2024.md"
-    },
-    {
-      "basename": "20-02-2024",
-      "path": "Notas/Diarias/20-02-2024.md"
-    },
-    {
-      "basename": "22-12-2023",
-      "path": "Notas/Diarias/22-12-2023.md"
-    },
-    {
-      "basename": "23-02-2024",
-      "path": "Notas/Diarias/23-02-2024.md"
     }
   ],
   "omittedPaths": [],

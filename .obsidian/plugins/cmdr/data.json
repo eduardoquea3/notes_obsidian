@@ -3,7 +3,15 @@
   "showAddCommand": true,
   "debug": false,
   "editorMenu": [],
-  "fileMenu": [],
+  "fileMenu": [
+    {
+      "id": "editor:save-file",
+      "icon": "activity",
+      "name": "Save current file",
+      "mode": "any",
+      "color": "#ffffff"
+    }
+  ],
   "leftRibbon": [
     {
       "id": "daily-notes",
@@ -16,7 +24,15 @@
   "rightRibbon": [],
   "titleBar": [],
   "statusBar": [],
-  "pageHeader": [],
+  "pageHeader": [
+    {
+      "id": "workspace:split-vertical",
+      "icon": "lucide-separator-vertical",
+      "name": "Split right",
+      "mode": "any",
+      "color": "#ffffff"
+    }
+  ],
   "macros": [],
   "explorer": [],
   "hide": {

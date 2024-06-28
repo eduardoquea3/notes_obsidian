@@ -4,19 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "15339377f13003ce",
+        "id": "8bc15dc5fdb28099",
         "type": "tabs",
         "children": [
           {
-            "id": "6e33d9f752927569",
+            "id": "2d4a322bbf7c2e64",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "be53031acc18f171",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Prueba.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ],
-        "stacked": true
+        ]
       }
     ],
     "direction": "vertical"
@@ -45,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#excalidraw",
+                "query": "tag:#moc",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,12 +97,27 @@
       }
     ],
     "direction": "horizontal",
-    "width": 222.5
+    "width": 222.5,
+    "collapsed": true
   },
   "right": {
     "id": "4db3f675f9c665b7",
     "type": "split",
     "children": [
+      {
+        "id": "7dd5c9b8ee1e794f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a315931700353ad9",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      },
       {
         "id": "9060fcf9eb233c73",
         "type": "tabs",
@@ -98,6 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,19 +175,13 @@
             }
           },
           {
-            "id": "7fa2ca861323a7e1",
-            "type": "leaf",
-            "state": {
-              "type": "file-properties",
-              "state": {}
-            }
-          },
-          {
             "id": "604388c5125e5db2",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           },
           {
@@ -165,43 +191,24 @@
               "type": "quiet-outline",
               "state": {}
             }
+          },
+          {
+            "id": "3d4bf5521020c99d",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "README.md"
+              }
+            }
           }
         ],
-        "currentTab": 4
-      },
-      {
-        "id": "f1b06b05f8977549",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "fe51e30e4d5d4234",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "graph",
-              "state": {},
-              "pinned": true
-            }
-          }
-        ]
-      },
-      {
-        "id": "e382dc9cc568ad55",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "a315931700353ad9",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          }
-        ]
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 342
+    "width": 342,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -222,16 +229,41 @@
       "homework-manager:Open homework": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-kanban:Create new board": false,
-      "periodic-notes:Open this week": false,
       "periodic-notes:Open today": false
     }
   },
-  "active": "7fa2ca861323a7e1",
+  "active": "2d4a322bbf7c2e64",
   "lastOpenFiles": [
+    "Prueba.md",
+    "README.md",
+    "Rutinas/Media/Pasted image 20240523175141.png",
+    "Media/Calendar.png",
+    "Sise/Servicios Web/T2-Grupo3.excalidraw.md",
     "Home.md",
     "Media/Home-20240626131157487.webp",
-    "README.md",
+    "60. Life Areas.md",
+    "Programacion/Lenguajes de Programacion/Python/Decorador.md",
     "Configuracion/Archivos de configuración.canvas",
+    "Configuracion/Untitled.canvas",
+    "Configuracion/Dowload apps.md",
+    "Configuracion/Apps Scoop.md",
+    "Settings/Templates/Notas Diarias.md",
+    "Notas/Diarias/Untitled 1.md",
+    "Notas/Diarias/Untitled.md",
+    "Notas/Diarias/Untitled 2.md",
+    "Notas/Diarias/Untitled 3.md",
+    "Notas/Diarias/Untitled 4.md",
+    "Notas/Diarias/2024-06-28.md",
+    "Notas/Diarias/2024-06-27.md",
+    "Notas/Diarias/2024-06-26.md",
+    "2024-06-28.md",
+    "Notas/Diarias/2024-06-19.md",
+    "2024-06-26.md",
+    "Tasks.md",
+    "Sise/Aplicaciones web/22-12-2023.md",
+    "Sise/Gestión de Proyectos/07-12-2023.md",
+    "Sise/Analisis y diseño de sistemas/(07_and_22)-12-2023.md",
+    "Sise/Analisis y diseño de sistemas/14-12-2023.md",
     "Media/Tracker.png",
     "Media/Obsidian-Link-Converter.png",
     "Media/Kanban.png",
@@ -239,41 +271,16 @@
     "Media/Highlighting.png",
     "Media/Full-Calendar.png",
     "Media/Excalidraw.png",
-    "Media/Dataview.png",
-    "Media/Commander.png",
     "Media",
-    "Vault.md",
-    "Configuracion/Apps Scoop.md",
-    "Notas/Diarias/2024-06-26.md",
     "Settings",
-    "Notas/Diarias/2024-06-25.md",
-    "Notas/Untitled.md",
-    "Untitled.md",
     "Sise/Calidad de software",
     "Home",
-    "Sise/Servicios Web/T2-Grupo3.excalidraw.md",
-    "Sise/Base de datos/Oracle DB.md",
-    "Notas/Diarias/02-01-2024.md",
-    "Notas/Diarias/01-01-2024.md",
-    "Main.md",
-    "Notas/Diarias/2024-06-23.md",
-    "Sise/Base de datos/Comandos Iniciales.md",
-    "Programacion/Lenguajes de Programacion/Interfaces.md",
-    "22.md",
-    "Sise/Analisis y diseño de sistemas/objeto controlador - objeto borde.md",
     "Sise/Analisis y diseño de sistemas/~$ADSA_EP_Quea_Hancco_Eduardo_Franco.xlsx",
-    "Sise/Analisis y diseño de sistemas/4 + 1 vistas.md",
-    "Rutinas/Rutina de brazos.md",
-    "Programacion/Lenguajes de Programacion/Python/Deco.md",
-    "Programacion/Lenguajes de Programacion/Python/Decoradores.md",
-    "Configuracion/Dowload apps.md",
     "Documentos Personales/RM12300141719009V001.pdf",
     "Documentos Personales/LCETD015I00000734114824.pdf",
     "Documentos Personales/HRL12300141719009V002.pdf",
     "Documentos Personales/HL12300141719009V001.pdf",
-    "Sise/Servicios Web/WCF.md",
     "Sise/Servicios Web/Media",
-    "Untitled 1.md",
     "Programacion/Config-Ejemplos.canvas",
     "Configuracion/Untitled 1.canvas",
     "Canva/Sin título 1.canvas",

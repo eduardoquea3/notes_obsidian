@@ -1,7 +1,16 @@
 ---
 tags:
   - "#Habitos"
+Leer: "false"
+Ejercicios: "false"
+Beber agua: "false"
+Meditar: "false"
 ---
+# Nota <% tp.date.now("DD-MM-YYYY") %>
+
+
+<< [[Notas/Diarias/<% fileDate = moment(tp.file.title, 'YYYY-MM-DD').subtract(1, 'd').format('YYYY-MM-DD') %>|Yesterday]] | [[Notas/Diarias/<% fileDate = moment(tp.file.title, 'YYYY-MM-DD').add(1, 'd').format('YYYY-MM-DD') %>|Tomorrow]] >>
+
 
 ## Lista de objetivos
 ---

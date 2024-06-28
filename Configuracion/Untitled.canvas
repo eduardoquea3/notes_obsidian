@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"2b115e1ddd54ccb2","x":-380,"y":-320,"width":480,"height":70,"type":"text","text":"# Plugins para neovim"},
+		{"id":"2de5b0c6e5705b2e","x":-380,"y":-200,"width":400,"height":400,"type":"link","url":"https://github.com/zerochae/telescope-spring.nvim?tab=readme-ov-file#-installation"}
+	],
+	"edges":[]
+}
