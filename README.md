@@ -1,9 +1,9 @@
 # Configuración de obsidian
 
 
-| Calendar                       | Commander               | Dataview                       |
-| ------------------------------ | ----------------------- | ------------------------------ |
-| ![[Calendar.png\|center\|400]] | ![[Commander.png\|400]] | ![[Dataview.png\|center\|300]] |
+| Calendar                              | Commander               | Dataview                       |
+| ------------------------------------- | ----------------------- | ------------------------------ |
+| ![Calendar\|300](/Media/Calendar.png) | ![[Commander.png\|400]] | ![[Dataview.png\|center\|300]] |
 
 #### Plugins
 1. **Calendar** 
