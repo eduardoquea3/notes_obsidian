@@ -23,5 +23,5 @@
 
 | Tracker                        | Icon Folder                     | 
 | ------------------------------ | ------------------------------- |
-| ![Tracker](/Media/Tracker.png) | ![Icon](/Media/Icon-folder.png) |
+| ![Tracker](/Media/Tracker.png) | ![Icon](/Media/Icon-Folder.png) |
 
