@@ -18,19 +18,8 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "e4fb6497072a0382",
-            "type": "leaf",
-            "state": {
-              "type": "surfing-view",
-              "state": {
-                "url": "https://jonmircha.com/git"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,8 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 222.5,
-    "collapsed": true
+    "width": 222.5
   },
   "right": {
     "id": "4db3f675f9c665b7",
@@ -127,6 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,6 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +166,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           },
           {
@@ -192,7 +184,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           }
         ],
@@ -225,7 +219,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e4fb6497072a0382",
+  "active": "f4d13f5d77ccace5",
   "lastOpenFiles": [
     "README.md",
     "Home.md",
