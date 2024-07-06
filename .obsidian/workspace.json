@@ -4,22 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "bd9dd225d8c882de",
+        "id": "02f3756976a47cf6",
         "type": "tabs",
         "children": [
           {
-            "id": "88b3a6116a044072",
+            "id": "f4d13f5d77ccace5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "README.md",
                 "mode": "preview",
-                "source": false
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "e4fb6497072a0382",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://jonmircha.com/git"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 222.5
+    "width": 222.5,
+    "collapsed": true
   },
   "right": {
     "id": "4db3f675f9c665b7",
@@ -115,7 +127,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +143,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,9 +176,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           },
           {
@@ -184,9 +192,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -199,9 +205,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "pdf-plus:PDF++: Toggle auto-copy": false,
-      "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -211,19 +214,23 @@
       "obsidian42-brat:BRAT": false,
       "dbfolder:Create a new database table": false,
       "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-full-calendar:Open Full Calendar": false,
       "homepage:Open homepage": false,
       "homework-manager:Open homework": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-kanban:Create new board": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
       "periodic-notes:Open today": false
     }
   },
-  "active": "88b3a6116a044072",
+  "active": "e4fb6497072a0382",
   "lastOpenFiles": [
-    "Tasks.md",
     "README.md",
     "Home.md",
+    "Settings/Templates/Notas Diarias.md",
+    "Tasks.md",
     "Prueba.md",
     "Notas/Diarias/2024-06-28.md",
     "Media/README-20240628161252219.webp",
@@ -240,7 +247,6 @@
     "Configuracion/Untitled.canvas",
     "Configuracion/Dowload apps.md",
     "Configuracion/Apps Scoop.md",
-    "Settings/Templates/Notas Diarias.md",
     "Notas/Diarias/Untitled 1.md",
     "Notas/Diarias/Untitled.md",
     "Notas/Diarias/Untitled 2.md",

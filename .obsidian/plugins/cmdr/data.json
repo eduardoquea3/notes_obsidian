@@ -15,7 +15,20 @@
   ],
   "rightRibbon": [],
   "titleBar": [],
-  "statusBar": [],
+  "statusBar": [
+    {
+      "id": "obsidian-git:commit",
+      "icon": "git-commit",
+      "name": "Git: Commit all changes",
+      "mode": "any"
+    },
+    {
+      "id": "obsidian-git:push2",
+      "icon": "send",
+      "name": "Git: Push",
+      "mode": "any"
+    }
+  ],
   "pageHeader": [
     {
       "id": "workspace:split-vertical",

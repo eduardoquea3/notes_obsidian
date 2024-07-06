@@ -1,12 +1,27 @@
 # Configuración de obsidian
 
 
-| Calendar                                                       | Commander                                | Dataview                             |
-| -------------------------------------------------------------- | ---------------------------------------- | ------------------------------------ |
-| ![Calendar](/Media/Calendar.png)                               | ![Commander](/Media/Commander.png)       | ![Dataview](/Media/Dataview.png)     |
-| DB Folder                                                      | Editor Syntax Highlighting               | Excalidraw                           |
-| ![DB Folder](/Media/README-20240628161946249.webp)             | ![Highlighting](/Media/Highlighting.png) | ![Excalidraw](/Media/Excalidraw.png) |
-| Full Calendar                                                  | Icon Folder                              | Kanban                               |
-| ![Full calendar](/Media/Full-Calendar.png)                     | ![Icon](/Media/Icon-folder.png)          | ![Kanban](/Media/Kanban.png)         |
-| Obsidian Link Converter                                        | Tracker                                  |                                      |
-| ![Obsidian Link Converter](/Media/Obsidian-Link-Converter.png) | ![Tracker](/Media/Tracker.png)           |                                      |
+| Calendar                          | Commander                          |
+| --------------------------------- | ---------------------------------- |
+| ![Calendar](/Media/Calendar.png)  | ![Commander](/Media/Commander.png) |
+
+
+| Dataview                          | DB Folder                                         |
+| --------------------------------- | ------------------------------------------------- |
+| ![Dataview](/Media/Dataview.png)  | ![DB Folder](/Media/README-20240628161946249.webp)|
+
+
+| Editor Syntax Highlighting               | Excalidraw                      |
+| ---------------------------------------- | ------------------------------- |
+| ![Highlighting](/Media/Highlighting.png) | ![Icon](/Media/Icon-folder.png) |
+
+
+| Kanban                       | Obsidian Link Converter                               |
+| ---------------------------- | ----------------------------------------------------- |
+| ![Kanban](/Media/Kanban.png) | ![Link Converter](/Media/Obsidian-Link-Converter.png) |
+
+
+| Tracker                           |
+| --------------------------------- |
+| ![Tracker](/Media/Tracker.png)    |
+

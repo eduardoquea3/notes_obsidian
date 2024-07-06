@@ -1,13 +1,6 @@
 ---
-id: Home
-aliases: []
-tags: []
 banner: "![[Home-20240626131157487.webp]]"
-banner_y: 0.4625
-cssclasses:
-  - reset
 ---
-
 # Home
 
 `BUTTON[daily-note]` 🪴 `BUTTON[weekly-note]` 🪴 `BUTTON[light-mode, dark-mode]` 🪴 `BUTTON[tasks]`

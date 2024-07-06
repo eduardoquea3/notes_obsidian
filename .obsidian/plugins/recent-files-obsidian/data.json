@@ -5,12 +5,16 @@
       "path": "README.md"
     },
     {
-      "basename": "Tasks",
-      "path": "Tasks.md"
-    },
-    {
       "basename": "Home",
       "path": "Home.md"
+    },
+    {
+      "basename": "Notas Diarias",
+      "path": "Settings/Templates/Notas Diarias.md"
+    },
+    {
+      "basename": "Tasks",
+      "path": "Tasks.md"
     },
     {
       "basename": "Prueba",
@@ -61,24 +65,8 @@
       "path": "Configuracion/Apps Scoop.md"
     },
     {
-      "basename": "Notas Diarias",
-      "path": "Settings/Templates/Notas Diarias.md"
-    },
-    {
-      "basename": "Untitled 1",
-      "path": "Notas/Diarias/Untitled 1.md"
-    },
-    {
-      "basename": "Untitled 2",
-      "path": "Notas/Diarias/Untitled 2.md"
-    },
-    {
       "basename": "Untitled 3",
       "path": "Notas/Diarias/Untitled 3.md"
-    },
-    {
-      "basename": "Untitled 4",
-      "path": "Notas/Diarias/Untitled 4.md"
     },
     {
       "basename": "22-12-2023",

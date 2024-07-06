@@ -27,7 +27,7 @@
   "spacesEnabled": true,
   "syncFormulaToFrontmatter": true,
   "spacesPerformance": false,
-  "currentWaypoint": 3,
+  "currentWaypoint": 2,
   "enableFolderNote": true,
   "folderIndentationLines": true,
   "revealActiveFile": false,
@@ -59,7 +59,8 @@
     "//Home",
     "//Spaces",
     "//Configuracion",
-    "/"
+    "/",
+    "//Notas"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
@@ -104,7 +105,7 @@
   "openSpacesOnLaunch": true,
   "indexSVG": true,
   "quickFrames": [],
-  "readableLineWidth": false,
+  "readableLineWidth": true,
   "autoAddContextsToSubtags": true,
   "autoMigration08": false,
   "releaseNotesPrompt": 0.9,

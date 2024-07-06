@@ -6,7 +6,7 @@
     "emojiStyle": "native",
     "iconColor": "#d1d1d1",
     "recentlyUsedIcons": [
-      "FasCode"
+      "FasNoteSticky"
     ],
     "recentlyUsedIconsSize": 1,
     "rules": [],
@@ -37,14 +37,7 @@
     "iconName": "LiFolderCog",
     "iconColor": "#787373"
   },
-  "Documentos Personales": {
-    "iconName": "RiFolderUserFill",
-    "iconColor": "#6980f2"
-  },
-  "Notas": {
-    "iconName": "TiCalendar",
-    "iconColor": "#7fd2fe"
-  },
+  "Documentos Personales": "FasUser",
   "Rutinas": {
     "iconName": "RaMuscleUp",
     "iconColor": "#b69c77"
@@ -53,10 +46,6 @@
     "iconName": "FiSettings",
     "iconColor": "#5e5555"
   },
-  "Sise": {
-    "iconName": "TiSchool",
-    "iconColor": "#c85656"
-  },
   "Media": {
     "iconName": "OcFileMedia24",
     "iconColor": "#ffdc7a"
@@ -64,5 +53,13 @@
   "Programacion": {
     "iconName": "FasCode",
     "iconColor": "#373ea0"
+  },
+  "Sise": {
+    "iconName": "LiSchool",
+    "iconColor": "#ff7a7a"
+  },
+  "Notas": {
+    "iconName": "FasNoteSticky",
+    "iconColor": "#fcfac5"
   }
 }
