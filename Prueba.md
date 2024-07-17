@@ -9,10 +9,10 @@ cssclasses:
 
 
 > [!cards|3]
->  **Self** 
+>  **Self**
 > ![External Image|center](https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/van.png)
-> 
->  
+>
+>
 >  **Personal**
 > ![External Image|center](https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/pink-mecha.png)
 >
@@ -26,7 +26,14 @@ cssclasses:
 >[!multi-column|right|2]
 >
 >> [!danger]+ Life Progress メメント・モリ
->> 
+>>
 >
 >> [!important]+ Countdown カウントダウン
->> 
+>>
+
+
+```python
+    def run():
+        print("hola mundo")
+```
+
